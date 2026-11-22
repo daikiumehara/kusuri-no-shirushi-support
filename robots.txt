@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daikiumehara.github.io/kusuri-no-shirushi-support/sitemap.xml
