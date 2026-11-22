@@ -14,3 +14,5 @@
 | QR登録ガイド・デスクトップ | PDF共有ガイド・モバイル |
 | --- | --- |
 | ![QR登録ガイド](qr-guide-desktop.png) | ![PDF共有ガイド](pdf-guide-mobile.png) |
+
+複数薬の登録順序は [QRガイド・STEP 4 のモバイル表示](qr-guide-step4-mobile.png) でも確認しました。
